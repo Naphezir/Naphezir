@@ -9,7 +9,7 @@ After almost 10 years of working as pharmacist, I decided to study in a new dire
 *   🌍  I'm based in Uniejów
 *   ✉️  You can contact me at [2milion2000000@gmail.com](mailto:2milion2000000@gmail.com)
 *   🚀  I'm currently working on [Finishing my IT studies](http://https://www.ahe.lodz.pl/informatyka)
-*   🧠  I'm learning Machine Learning, Web Development, AWS, Linux and some Japanese
+*   🧠  I'm learning: more Python, some Blockchain, some Machine Learning and maybe later Linux
 *   🤝  I'm open to collaborating on any junior job that will skyrocket my skills 🚀
 *   ⚡  I also want to make all people wealthy and prosperous
 
