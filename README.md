@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer, currently working as pharmacist
 -------------------------------------------
 
-After almost 10 years of working as pharmacist, I decided to study in a new direction, to become software developer. Now that I achieved financial stability, I would like to develop myself in a field much closer to my interests and hobbys. Currently, I am studying computer science at university, also expanding my knowledge through Udemy courses. I hope to smoothly transition from one area to another, I am very quick learner and I want to gain knowledge and use it in my future work. I'm hoping for a remote job, so that I can rest from commuting and better combine it with further education.
+Pharmacist with over a decade of experience. Recently graduated software
+engineer with best possible grade. Available (also on early monday
+mornings), non-drinking, honest and hard-working. Able to learn new
+things and tasks very fast. Love expanding my intellectual horizons. Right
+now perfect job for me would be remote, half-time work.
 
 *   🌍  I'm based in Uniejów
 *   ✉️  You can contact me at [wiktor-slodzinski@proton.me](mailto:wiktor-slodzinski@proton.me)
